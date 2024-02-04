@@ -214,15 +214,6 @@
         ],
         "url": "https://bio-link-orcin.vercel.app/",
         "github": "https://github.com/EduardoP103/Bio-Link"
-      },
-      {
-        "name": "miduConf",
-        "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-        "highlights": [
-          "+15k tickets repartidos",
-          "+50k espectadores en directo"
-        ],
-        "url": "https://miduconf.com"
       }
     ]
   }
