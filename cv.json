@@ -1,0 +1,228 @@
+{
+  "basics": {
+    "name": "Eduardo Javier Pastor Romero",
+    "label": "Programador Junior",
+    "image": "/momito.webp",
+    "email": "eduardopastor103@gmail.com",
+    "phone": "(+51) 937118553",
+    "url": "https://www.linkedin.com/in/eduardo-pastor-8917631a5/",
+    "summary": "Egresado en Diseño y Desarrollo de Software con experiencia como Analista FullStack. Actualmente trabajando en SEIDOR.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Huacho",
+      "countryCode": "PE",
+      "region": "Perú"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "eduardopastor",
+        "url": "https://www.linkedin.com/in/eduardo-pastor-8917631a5/"
+      },
+      {
+        "network": "X",
+        "username": "Eduardo",
+        "url": "https://twitter.com/Eduardo77446228"
+      },
+      {
+        "network": "GitHub",
+        "username": "EduardoP103",
+        "url": "https://github.com/EduardoP103"
+      }
+    ]
+  },
+  "work": [
+    
+    {
+      "name": "SEIDOR",
+      "url": "https://www.seidor.com/es-pe",
+      "position": "Analista FullStack",
+      "startDate": "2024",
+      "endDate": null,
+      "summary": "Diseño de interfaces de usuario utilizando SAPUI5 y XML. Desarrollo de sistemas de Backend escalables y seguros utilizando CAP y Node.js en SEIDOR.",
+      "highlights": [
+        "Liderazgo en despliegues exitosos",
+        "Resolución de problemas y mejoras eficientes",
+        "Soporte a empresas como Mission Produce y Clínica Internacional"
+      ]
+      },
+      {
+        "name": "DEVDATEP CONSULTING",
+        "ul": "https://www.devdatep.com/",
+        "position": "Analista de Desarrollo",
+        "startDate": "2022-01-01",
+        "endDate": "2022-04-01",
+        "summary": "Experiencia en la aplicación de ceremonias de Scrum y optimización de procesos en DEVDATEP CONSULTING."
+      }
+    ],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "Certus",
+      "url": "https://www.certus.edu.pe/",
+      "area": "Diseño y Desarrollo de Software",
+      "studyType": "Tecnico",
+      "startDate": "2021",
+      "endDate": "2024",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+        "name": "Javascript",
+        "level": "Avanzado"
+      },
+      {
+        "name": "Python",
+        "level": "Intermedio"
+      },
+      {
+        "name": "Flutter",
+        "level": "Avanzado"
+      },
+      {
+        "name": "CSS",
+        "level": "Avanzado"
+      },
+      {
+        "name": "Dart",
+        "level": "Avanzado"
+      },
+      {
+        "name": "React js",
+        "level": "Avanzado"
+      },
+      {
+        "name": "XML",
+        "level": "Intermedio"
+      },
+      {
+        "name": "Node js",
+        "level": "Avanzado"
+      },
+      {
+        "name": "SQL",
+        "level": "Avanzado"
+      }
+    ],
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Advanced"
+      }
+    ],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [
+      {
+        "name": "ecosalud",
+        "isActive": true,
+        "description": "Plataforma de Clinica para registrar pacientes y citas",
+        "highlights": [
+          "Typescrit",
+          "Ionic React",
+          "Multiplataforma"
+        ],
+        "url": "https://github.com/EduardoP103/EcoSalud-Ionic"
+      },
+      {
+        "name": "postrecitos.bombom",
+        "isActive": true,
+        "description": "Tienda de postres para solicitar todo de la carta",
+        "highlights": [
+          "Tailwind",
+          "Docker",
+          "JavaScript & TypeScript",
+          "Nextjs", 
+          "PlayWright"
+        ],
+        "url": "https://postrecitos-bom-bom.vercel.app/"
+      },
+      {
+        "name": "El Bosue de Chocolate",
+        "isActive": true,
+        "description": "Pagina para ventas de chocotejas, emprendimiento",
+        "highlights": [
+          "React",
+          "Tailwind"
+        ],
+        "url": "https://dianita-emprendimiento.vercel.app/"
+      },
+      {
+        "name": "rapid.work",
+        "isActive": true,
+        "description": "Plataforma para atender clientes de delivery",
+        "highlights": [
+          "Typescrit",
+          "Ionic",
+          "Multiplataforma"
+        ],
+        "url": "rapidwork.azurewebsites.net/",
+        "github": "https://github.com/EduardoP103/RapidWork"
+      },
+      {
+        "name": "bio.link",
+        "isActive": true,
+        "description": "Biografia de todas las redes sociales",
+        "highlights": [
+          "CSS",
+          "Three.js"
+        ],
+        "url": "https://bio-link-orcin.vercel.app/",
+        "github": "https://github.com/EduardoP103/Bio-Link"
+      },
+      {
+        "name": "miduConf",
+        "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+        "highlights": [
+          "+15k tickets repartidos",
+          "+50k espectadores en directo"
+        ],
+        "url": "https://miduconf.com"
+      }
+    ]
+  }
